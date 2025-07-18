@@ -8,7 +8,7 @@ import { FaWhatsapp } from "react-icons/fa";
 
 function Topbar() {
   return (
-    <div className='bg-primary text-[white]' >
+    <div className='bg-gradient-to-r from-vibrantOrange to-brightPurple text-[white]' >
       <div className="container mx-auto flex justify-between items-center py-3 px-4">
         <div className='hidden md:flex items-center space-x-4'>
           <a href="#" className='hover:text-gray-300'>
